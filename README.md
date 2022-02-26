@@ -1,6 +1,7 @@
 # AlgoVisualizer
 AlgoVisualizer is an algorithm visualization tool created for better understanding and inner workings of the algorithm. 
-Myself along with many experts belive that learning comes better with visualization. So this program is created for better graspment of the ways of Algorithms.
+
+This project was done as our college's main project.
 
 Algorithm visualizer is a tool created by using python equipped with Graphs and interactive GUI so one can be fully engaged with the program.
 
